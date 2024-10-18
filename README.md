@@ -1,0 +1,1 @@
+# Adobe-Illustrator-2024-macOS
